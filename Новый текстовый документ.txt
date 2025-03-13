@@ -1,0 +1,8 @@
+Ссылаясь на метрики сайта 6Sense.com, можно заявить, что Docker 
+Статьи:
+https://www.atlex.ru/baza-znanij/tematicheskij-glossarij/kontejnery-v-it/
+https://www.datadoghq.com/container-report/
+https://yandex.cloud/ru/blog/posts/2022/03/docker-containers
+https://habr.com/ru/companies/flant/articles/326784/
+https://habr.com/ru/articles/659049/
+https://habr.com/ru/articles/713942/
